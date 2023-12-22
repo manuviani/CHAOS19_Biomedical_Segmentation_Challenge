@@ -4,7 +4,7 @@ Implemented a Convolutional Neural Network (CNN) to segment internal organs usin
 
 ---
 
-![Epoch 1](Images\epoch 1.png)
+![epoch1](https://github.com/manuviani/CHAOS19_Biomedical_Segmentation_Challenge/blob/main/Images/epoch%201.png)
 
 
 
